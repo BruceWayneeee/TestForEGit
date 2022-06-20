@@ -8,6 +8,6 @@
     <borrowers xmi:id="_fYlVIPBoEeyho8ZYoZRknA" firstName="Will" lastName="Graham" borrowed="_XSpkIO0YEeyrCoj7fIavkQ"/>
   </extlib:Library>
   <extlib:Library xmi:id="_DoNTkPBqEeyho8ZYoZRknA">
-    <stock xsi:type="extlib:Book" xmi:id="_EWxCsPBqEeyho8ZYoZRknA" title="1984"/>
+    <stock xsi:type="extlib:Book" xmi:id="_EWxCsPBqEeyho8ZYoZRknA" title="1984" pages="347"/>
   </extlib:Library>
 </xmi:XMI>
