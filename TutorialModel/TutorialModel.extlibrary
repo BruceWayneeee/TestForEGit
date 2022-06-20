@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:extlib="http:///org/eclipse/emf/examples/library/extlibrary.ecore/1.0.0">
   <extlib:Library xmi:id="_UX4cIO0YEeyrCoj7fIavkQ">
-    <stock xsi:type="extlib:Book" xmi:id="_XSpkIO0YEeyrCoj7fIavkQ" borrowers="_fYlVIPBoEeyho8ZYoZRknA" title="Prelude to Foundation" category="ScienceFiction"/>
+    <stock xsi:type="extlib:Book" xmi:id="_XSpkIO0YEeyrCoj7fIavkQ" borrowers="_fYlVIPBoEeyho8ZYoZRknA" title="Prelude to Foundation" pages="347" category="ScienceFiction"/>
     <employees xmi:id="_06OD4PBjEeyho8ZYoZRknA" lastName="Master"/>
     <employees xmi:id="_1Yvy8PBjEeyho8ZYoZRknA" lastName="Chief"/>
     <employees xmi:id="_1qtssPBjEeyho8ZYoZRknA" lastName="Employee"/>
