@@ -11,6 +11,7 @@
   <extlib:Library xmi:id="_DoNTkPBqEeyho8ZYoZRknA">
     <stock xsi:type="extlib:Book" xmi:id="_5SBVEPEoEeyho8ZYoZRknA"/>
     <stock xsi:type="extlib:Book" xmi:id="_ui2VQPErEeyho8ZYoZRknA" title="1111"/>
+    <stock xsi:type="extlib:Book" xmi:id="_isc8wPEwEeyho8ZYoZRknA" title="base_on_ver6 only"/>
     <writers xmi:id="_wQVKwPErEeyho8ZYoZRknA"/>
   </extlib:Library>
 </xmi:XMI>
